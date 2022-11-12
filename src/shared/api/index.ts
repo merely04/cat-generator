@@ -1,0 +1,1 @@
+export * as randomcatApi from './randomcat';
