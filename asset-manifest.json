@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cat-generator/static/css/main.d0b0bc57.css",
+    "main.js": "/cat-generator/static/js/main.2c163407.js",
+    "index.html": "/cat-generator/index.html",
+    "main.d0b0bc57.css.map": "/cat-generator/static/css/main.d0b0bc57.css.map",
+    "main.2c163407.js.map": "/cat-generator/static/js/main.2c163407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b0bc57.css",
+    "static/js/main.2c163407.js"
+  ]
+}
